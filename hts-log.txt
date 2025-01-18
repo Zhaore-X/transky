@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jan 2025 14:13:19 at https://transky.mtf.wiki/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://transky.mtf.wiki/ -O1 "C:\My Websites\https___transky.mtf.wiki_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:13:33	Error: 	"Not Found" (404) at link https://transky.mtf.wiki/apple-touch-icon.png (from https://transky.mtf.wiki/)
+14:13:33	Error: 	"Not Found" (404) at link https://transky.mtf.wiki/site.webmanifest (from https://transky.mtf.wiki/)
+14:17:38	Warning: 	Unexpected socket error during pre-loop
+14:23:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://transky.mtf.wiki/assets/02_083.md.NNhtH0yW.lean.js (from https://transky.mtf.wiki/02/083)
+14:23:03	Warning: 	Retry after error -4 (Receive Error) at link https://transky.mtf.wiki/assets/02_084.md.Dp6ldm4r.lean.js (from https://transky.mtf.wiki/02/084)
+14:23:03	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_085.md.D_wnNEBo.lean.js (from https://transky.mtf.wiki/02/085)
+14:23:05	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_086.md.DDA20ivE.lean.js (from https://transky.mtf.wiki/02/086)
+14:23:05	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_087.md.BVnb71b0.lean.js (from https://transky.mtf.wiki/02/087)
+14:23:06	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_088.md.CKGMEdGh.lean.js (from https://transky.mtf.wiki/02/088)
+14:23:07	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_089.md.DPaPmP9B.lean.js (from https://transky.mtf.wiki/02/089)
+14:23:07	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_090.md.DiFea12H.lean.js (from https://transky.mtf.wiki/02/090)
+14:23:07	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_091.md.B5rsELKq.lean.js (from https://transky.mtf.wiki/02/091)
+14:23:08	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_092.md.z-rYQPOP.lean.js (from https://transky.mtf.wiki/02/092)
+14:23:09	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_093.md.D5_2jUoB.lean.js (from https://transky.mtf.wiki/02/093)
+14:23:09	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_094.md.DxGEQ-ie.lean.js (from https://transky.mtf.wiki/02/094)
+14:23:09	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_095.md.CvdPHQ6L.lean.js (from https://transky.mtf.wiki/02/095)
+14:23:09	Warning: 	Retry after error -4 (Connect Error) at link https://transky.mtf.wiki/assets/02_096.md.DX937I44.lean.js (from https://transky.mtf.wiki/02/096)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 51 seconds : 1583 links scanned, 1566 files written (318100653 bytes overall) [89469975 bytes received at 151387 bytes/sec], 269797019 bytes transferred using HTTP compression in 1528 files, ratio 14%, 56.5 requests per connection
+(2 errors, 15 warnings, 0 messages)
